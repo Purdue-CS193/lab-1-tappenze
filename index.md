@@ -2,5 +2,6 @@
 - Weekly meetings
 - Fun labs
 - Great TA's ;)
+- hi
 
 
